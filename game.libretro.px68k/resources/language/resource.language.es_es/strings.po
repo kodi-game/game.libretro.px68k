@@ -72,25 +72,41 @@ msgid "Swap Disks on Drive"
 msgstr ""
 
 msgctxt "#30011"
-msgid "Save Disk Paths"
+msgid "Save FDD Paths"
 msgstr ""
 
 msgctxt "#30012"
-msgid "Rumble on FDD Reads"
+msgid "Save HDD Paths"
 msgstr ""
 
 msgctxt "#30013"
-msgid "Joy/Mouse"
+msgid "Rumble on FDD Reads"
 msgstr ""
 
 msgctxt "#30014"
-msgid "VBtn Swap"
+msgid "Joy/Mouse"
 msgstr ""
 
 msgctxt "#30015"
-msgid "No Wait Mode"
+msgid "VBtn Swap"
 msgstr ""
 
 msgctxt "#30016"
+msgid "No Wait Mode"
+msgstr ""
+
+msgctxt "#30017"
 msgid "Frames Skip"
+msgstr ""
+
+msgctxt "#30018"
+msgid "Push Video before Audio"
+msgstr ""
+
+msgctxt "#30019"
+msgid "Adjust Frame Rates"
+msgstr ""
+
+msgctxt "#30020"
+msgid "Audio Desync Hack"
 msgstr ""

@@ -19,9 +19,9 @@ Supported files: .dim, .zip, .img, .d88, .88d, .hdm, .dup, .2hd, .xdf, .hdf, .cm
 		<license>Custom Non-Commercial</license>
 		<platform>@PLATFORM@</platform>
 		<source>https://github.com/kodi-game/game.libretro.px68k</source>
-		<summary lang="en_GB">Sharp - X68000 (PX68k) 0.15+</summary>
-		<description lang="en_GB">PX68k is a portable SHARP X68000 Emulator for PSP, Android and other platforms.
 
 Supported files: .dim, .zip, .img, .d88, .88d, .hdm, .dup, .2hd, .xdf, .hdf, .cmd, .m3u</description>
+		<summary lang="en_GB">Sharp - X68000 (PX68k) 0.15+</summary>
+		<description lang="en_GB">PX68k is a portable SHARP X68000 Emulator for PSP, Android and other platforms.Supported files: .dim, .zip, .img, .d88, .88d, .hdm, .dup, .2hd, .xdf, .hdf, .cmd, .m3u</description>
 	</extension>
 </addon>

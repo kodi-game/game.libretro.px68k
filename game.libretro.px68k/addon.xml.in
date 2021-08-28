@@ -17,6 +17,11 @@
 		<license>Custom Non-Commercial</license>
 		<platform>@PLATFORM@</platform>
 		<source>https://github.com/kodi-game/game.libretro.px68k</source>
+		<assets>
+			<screenshot>resources/screenshot-01.jpg</screenshot>
+			<screenshot>resources/screenshot-02.jpg</screenshot>
+			<screenshot>resources/screenshot-03.jpg</screenshot>
+		</assets>
 		<summary lang="en_GB">Sharp - X68000 (PX68k) 0.15+</summary>
 		<description lang="en_GB">PX68k is a portable SHARP X68000 Emulator for PSP, Android and other platforms.</description>
 	</extension>

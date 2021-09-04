@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.px68k"
 		name="Sharp - X68000 (PX68k)"
-		version="0.15.0.8"
+		version="0.15.0.9"
 		provider-name="hissorii">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
@@ -12,6 +12,7 @@
 		<extensions>dim|zip|img|d88|88d|hdm|dup|2hd|xdf|hdf|cmd|m3u</extensions>
 		<supports_vfs>false</supports_vfs>
 		<supports_standalone>true</supports_standalone>
+		<requires_opengl>false</requires_opengl>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<license>Custom Non-Commercial</license>

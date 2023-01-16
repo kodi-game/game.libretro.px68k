@@ -2,7 +2,7 @@
 <settings>
 	<category label="30000">
 		<setting label="30001" type="select" id="px68k_menufontsize" values="normal|large" default="normal"/>
-		<setting label="30002" type="select" id="px68k_cpuspeed" values="10Mhz|16Mhz|25Mhz|33Mhz (OC)|66Mhz (OC)|100Mhz (OC)|150Mhz (OC)|200Mhz (OC)" default="10Mhz"/>
+		<setting label="30002" type="select" id="px68k_cpuspeed" values="10Mhz|16Mhz|25Mhz|33Mhz (OC)|66Mhz (OC)|100Mhz (OC)" default="10Mhz"/>
 		<setting label="30003" type="select" id="px68k_ramsize" values="2MB|1MB|3MB|4MB|5MB|6MB|7MB|8MB|9MB|10MB|11MB|12MB" default="2MB"/>
 		<setting label="30004" type="select" id="px68k_analog" values="disabled|enabled" default="disabled"/>
 		<setting label="30005" type="select" id="px68k_joytype1" values="Default (2 Buttons)|CPSF-MD (8 Buttons)|CPSF-SFC (8 Buttons)" default="Default (2 Buttons)"/>

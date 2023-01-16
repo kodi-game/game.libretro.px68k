@@ -1,1 +1,1 @@
-px68k https://github.com/libretro/px68k-libretro/archive/0183381d655be213d9c27207e1a29ad372a7a16d.tar.gz
+px68k https://github.com/libretro/px68k-libretro/archive/4c7542e34df71e3ebab77b5867901747d58dbb38.tar.gz

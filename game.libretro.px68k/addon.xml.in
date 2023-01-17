@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.px68k"
 		name="Sharp - X68000 (PX68k)"
-		version="0.15.0.18"
+		version="0.15.0.19"
 		provider-name="hissorii">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>

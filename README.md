@@ -13,7 +13,7 @@ Custom Non-Commercial
 
 ### Icon
 
-![Icon](game.libretro.px68k/resources/icon.png)
+![Sharp - X68000 (PX68k) icon](game.libretro.px68k/resources/icon.png)
 
 ### Fanart
 
@@ -21,6 +21,6 @@ Help make me fanart!
 
 ### Screenshots
 
-![Screenshot](game.libretro.px68k/resources/screenshot-01.jpg)
-![Screenshot](game.libretro.px68k/resources/screenshot-02.jpg)
-![Screenshot](game.libretro.px68k/resources/screenshot-03.jpg)
+![Sharp - X68000 (PX68k) screenshot](game.libretro.px68k/resources/screenshot-01.jpg)
+![Sharp - X68000 (PX68k) screenshot](game.libretro.px68k/resources/screenshot-02.jpg)
+![Sharp - X68000 (PX68k) screenshot](game.libretro.px68k/resources/screenshot-03.jpg)

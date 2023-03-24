@@ -17,7 +17,7 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 msgctxt "Addon Summary"
-msgid "Sharp - X68000 (PX68k) 0.15+"
+msgid "Sharp - X68000 (PX68k)"
 msgstr ""
 
 msgctxt "Addon Description"

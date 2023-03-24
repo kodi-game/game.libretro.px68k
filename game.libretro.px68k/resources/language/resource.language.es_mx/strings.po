@@ -18,7 +18,7 @@ msgstr ""
 "X-Generator: Weblate 4.7.1\n"
 
 msgctxt "Addon Summary"
-msgid "Sharp - X68000 (PX68k) 0.15+"
+msgid "Sharp - X68000 (PX68k)"
 msgstr ""
 
 msgctxt "Addon Description"

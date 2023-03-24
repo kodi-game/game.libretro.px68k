@@ -24,7 +24,7 @@
 			<screenshot>resources/screenshot-02.jpg</screenshot>
 			<screenshot>resources/screenshot-03.jpg</screenshot>
 		</assets>
-		<summary lang="en_GB">Sharp - X68000 (PX68k) 0.15+</summary>
+		<summary lang="en_GB">Sharp - X68000 (PX68k)</summary>
 		<description lang="da_DK">PX68k er en bærbar SHARP X68000 emulator til PSP, Android og andre platforme.</description>
 		<description lang="de_DE">PX68k ist ein portabler SHARP-X68000-Emulator für PSP, Android und andere Plattformen.</description>
 		<description lang="en_GB">PX68k is a portable SHARP X68000 Emulator for PSP, Android and other platforms.</description>

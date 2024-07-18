@@ -108,3 +108,11 @@ msgstr "Bildwiederholraten anpassen"
 msgctxt "#30020"
 msgid "Audio Desync Hack"
 msgstr "Audio-Desync-Hack"
+
+msgctxt "#30021"
+msgid "MIDI Output (Restart)"
+msgstr ""
+
+msgctxt "#30022"
+msgid "MIDI Output Type (Restart)"
+msgstr ""

@@ -108,3 +108,11 @@ msgstr ""
 msgctxt "#30020"
 msgid "Audio Desync Hack"
 msgstr ""
+
+msgctxt "#30021"
+msgid "MIDI Output (Restart)"
+msgstr ""
+
+msgctxt "#30022"
+msgid "MIDI Output Type (Restart)"
+msgstr ""

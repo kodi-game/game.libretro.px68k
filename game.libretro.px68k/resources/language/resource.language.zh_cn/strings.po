@@ -108,3 +108,11 @@ msgstr "调整帧率"
 msgctxt "#30020"
 msgid "Audio Desync Hack"
 msgstr "音频去同步 Hack"
+
+msgctxt "#30021"
+msgid "MIDI Output (Restart)"
+msgstr ""
+
+msgctxt "#30022"
+msgid "MIDI Output Type (Restart)"
+msgstr ""

@@ -25,10 +25,6 @@ msgctxt "Addon Description"
 msgid "PX68k is a portable SHARP X68000 Emulator for PSP, Android and other platforms."
 msgstr ""
 
-msgctxt "#30000"
-msgid "Settings"
-msgstr "Agordoj"
-
 msgctxt "#30001"
 msgid "Menu Font Size"
 msgstr ""
@@ -113,6 +109,22 @@ msgctxt "#30021"
 msgid "MIDI Output (Restart)"
 msgstr ""
 
-msgctxt "#30022"
-msgid "MIDI Output Type (Restart)"
+msgctxt "#30023"
+msgid "MIDI Output Type"
 msgstr ""
+
+msgctxt "#30024"
+msgid "Text Off"
+msgstr ""
+
+msgctxt "#30025"
+msgid "Grp Off"
+msgstr ""
+
+msgctxt "#30026"
+msgid "SP/BG Off"
+msgstr ""
+
+#~ msgctxt "#30000"
+#~ msgid "Settings"
+#~ msgstr "Agordoj"

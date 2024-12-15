@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <settings>
-	<category label="30000">
+	<category label="128">
 		<setting label="30001" type="select" id="px68k_menufontsize" values="normal|large" default="normal"/>
 		<setting label="30002" type="select" id="px68k_cpuspeed" values="10Mhz|16Mhz|25Mhz|33Mhz (OC)|66Mhz (OC)|100Mhz (OC)" default="10Mhz"/>
 		<setting label="30003" type="select" id="px68k_ramsize" values="2MB|1MB|3MB|4MB|5MB|6MB|7MB|8MB|9MB|10MB|11MB|12MB" default="2MB"/>
 		<setting label="30004" type="select" id="px68k_analog" values="disabled|enabled" default="disabled"/>
-		<setting label="30005" type="select" id="px68k_joytype1" values="Default (2 Buttons)|CPSF-MD (8 Buttons)|CPSF-SFC (8 Buttons)" default="Default (2 Buttons)"/>
+		<setting label="30005" type="select" id="px68k_joytype1" values="Default (2 Buttons)|CPSF-MD (8 Buttons)|CPSF-SFC (8 Buttons)|Cyberstick (Digital)|Cyberstick (Analog)" default="Default (2 Buttons)"/>
 		<setting label="30006" type="select" id="px68k_joytype2" values="Default (2 Buttons)|CPSF-MD (8 Buttons)|CPSF-SFC (8 Buttons)" default="Default (2 Buttons)"/>
 		<setting label="30007" type="select" id="px68k_joy1_select" values="Default|XF1|XF2|XF3|XF4|XF5|OPT1|OPT2|F1|F2" default="Default"/>
 		<setting label="30021" type="select" id="px68k_midi_output" values="enabled|disabled" default="enabled"/>
-		<setting label="30022" type="select" id="px68k_midi_output_type" values="GM|LA|GS|XG" default="GM"/>
+		<setting label="30023" type="select" id="px68k_midi_output_type" values="GM|LA|GS|XG" default="GM"/>
 		<setting label="30008" type="select" id="px68k_adpcm_vol" values="15|0|1|2|3|4|5|6|7|8|9|10|11|12|13|14" default="15"/>
 		<setting label="30009" type="select" id="px68k_opm_vol" values="12|0|1|2|3|4|5|6|7|8|9|10|11|13|14|15" default="12"/>
 		<setting label="30010" type="select" id="px68k_disk_drive" values="FDD1|FDD0" default="FDD1"/>
@@ -23,5 +23,8 @@
 		<setting label="30018" type="select" id="px68k_push_video_before_audio" values="disabled|enabled" default="disabled"/>
 		<setting label="30019" type="select" id="px68k_adjust_frame_rates" values="enabled|disabled" default="enabled"/>
 		<setting label="30020" type="select" id="px68k_audio_desync_hack" values="disabled|enabled" default="disabled"/>
+		<setting label="30024" type="select" id="px68k_text_off" values="disabled|enabled" default="disabled"/>
+		<setting label="30025" type="select" id="px68k_grp_off" values="disabled|enabled" default="disabled"/>
+		<setting label="30026" type="select" id="px68k_sp_off" values="disabled|enabled" default="disabled"/>
 	</category>
 </settings>

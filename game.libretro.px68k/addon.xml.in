@@ -27,11 +27,13 @@
 		<summary lang="da_DK">Sharp - X68000 (PX68k)</summary>
 		<summary lang="en_GB">Sharp - X68000 (PX68k)</summary>
 		<summary lang="es_ES">Sharp - X68000 (PX68k)</summary>
+		<summary lang="sv_SE">Sharp - X68000 (PX68k)</summary>
 		<summary lang="zh_CN">夏普 - X68000（PX68k）</summary>
 		<description lang="da_DK">PX68k er en bærbar SHARP X68000 emulator til PSP, Android og andre platforme.</description>
 		<description lang="de_DE">PX68k ist ein portabler SHARP-X68000-Emulator für PSP, Android und andere Plattformen.</description>
 		<description lang="en_GB">PX68k is a portable SHARP X68000 Emulator for PSP, Android and other platforms.</description>
 		<description lang="es_ES">PX68k es un emulador portátil del SHARP X68000 para PSP, Android y otras plataformas.</description>
+		<description lang="sv_SE">PX68k är en portabel SHARP X68000-emulator för PSP, Android och andra plattformar.</description>
 		<description lang="zh_CN">PX68k 是一款适用于 PSP、Android 和其他平台的便携式夏普 X68000 模拟器。</description>
 	</extension>
 </addon>

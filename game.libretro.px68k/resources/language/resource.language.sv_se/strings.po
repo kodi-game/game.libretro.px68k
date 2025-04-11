@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: game.libretro.px68k\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: 2020-09-01 13:05i\n"
-"PO-Revision-Date: 2025-04-08 15:13+0000\n"
+"PO-Revision-Date: 2025-04-11 09:05+0000\n"
 "Last-Translator: Daniel Nylander <daniel@danielnylander.se>\n"
 "Language-Team: Swedish <https://kodi.weblate.cloud/projects/kodi-add-ons-game/game-libretro-px68k/sv_se/>\n"
 "Language: sv_se\n"
@@ -27,7 +27,7 @@ msgstr "PX68k är en portabel SHARP X68000-emulator för PSP, Android och andra 
 
 msgctxt "#30001"
 msgid "Menu Font Size"
-msgstr ""
+msgstr "Storlek för menytypsnitt"
 
 msgctxt "#30002"
 msgid "CPU Speed"

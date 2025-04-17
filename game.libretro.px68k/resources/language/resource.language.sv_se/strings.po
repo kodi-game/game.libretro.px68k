@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: game.libretro.px68k\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: 2020-09-01 13:05i\n"
-"PO-Revision-Date: 2025-04-11 09:05+0000\n"
+"PO-Revision-Date: 2025-04-17 04:27+0000\n"
 "Last-Translator: Daniel Nylander <daniel@danielnylander.se>\n"
 "Language-Team: Swedish <https://kodi.weblate.cloud/projects/kodi-add-ons-game/game-libretro-px68k/sv_se/>\n"
 "Language: sv_se\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.10.4\n"
+"X-Generator: Weblate 5.11\n"
 
 msgctxt "Addon Summary"
 msgid "Sharp - X68000 (PX68k)"
@@ -31,99 +31,113 @@ msgstr "Storlek för menytypsnitt"
 
 msgctxt "#30002"
 msgid "CPU Speed"
-msgstr ""
+msgstr "CPU-hastighet"
 
+#, fuzzy
 msgctxt "#30003"
 msgid "RAM Size (Restart)"
-msgstr ""
+msgstr "RAM-storlek (omstart)"
 
 msgctxt "#30004"
 msgid "Use Analog"
-msgstr ""
+msgstr "Använd analog"
 
+#, fuzzy
 msgctxt "#30005"
 msgid "P1 Joypad Type"
-msgstr ""
+msgstr "P1 Joypad-typ"
 
+#, fuzzy
 msgctxt "#30006"
 msgid "P2 Joypad Type"
-msgstr ""
+msgstr "P2 Typ av styrpanel"
 
+#, fuzzy
 msgctxt "#30007"
 msgid "P1 Joystick Select Mapping"
-msgstr ""
+msgstr "P1 Mappning för val av joystick"
 
 msgctxt "#30008"
 msgid "ADPCM Volume"
-msgstr ""
+msgstr "ADPCM-volym"
 
 msgctxt "#30009"
 msgid "OPM Volume"
-msgstr ""
+msgstr "OPM-volym"
 
+#, fuzzy
 msgctxt "#30010"
 msgid "Swap Disks on Drive"
-msgstr ""
+msgstr "Byt diskar på enheten"
 
 msgctxt "#30011"
 msgid "Save FDD Paths"
-msgstr ""
+msgstr "Spara diskettsökvägar"
 
 msgctxt "#30012"
 msgid "Save HDD Paths"
-msgstr ""
+msgstr "Spara hårddisksökvägar"
 
 msgctxt "#30013"
 msgid "Rumble on FDD Reads"
-msgstr ""
+msgstr "Rumble vid diskettläsning"
 
+#, fuzzy
 msgctxt "#30014"
 msgid "Joy/Mouse"
-msgstr ""
+msgstr "Glädje/Mus"
 
+#, fuzzy
 msgctxt "#30015"
 msgid "VBtn Swap"
-msgstr ""
+msgstr "VBtn-byte"
 
+#, fuzzy
 msgctxt "#30016"
 msgid "No Wait Mode"
-msgstr ""
+msgstr "Inget vänteläge"
 
+#, fuzzy
 msgctxt "#30017"
 msgid "Frames Skip"
-msgstr ""
+msgstr "Ramar Hoppa över"
 
+#, fuzzy
 msgctxt "#30018"
 msgid "Push Video before Audio"
-msgstr ""
+msgstr "Skjut upp video före ljud"
 
+#, fuzzy
 msgctxt "#30019"
 msgid "Adjust Frame Rates"
-msgstr ""
+msgstr "Justera bildfrekvenser"
 
+#, fuzzy
 msgctxt "#30020"
 msgid "Audio Desync Hack"
-msgstr ""
+msgstr "Ljud Desync Hack"
 
+#, fuzzy
 msgctxt "#30021"
 msgid "MIDI Output (Restart)"
-msgstr ""
+msgstr "MIDI-utgång (omstart)"
 
 msgctxt "#30023"
 msgid "MIDI Output Type"
-msgstr ""
+msgstr "Typ av MIDI-utgång"
 
 msgctxt "#30024"
 msgid "Text Off"
-msgstr ""
+msgstr "Text av"
 
+#, fuzzy
 msgctxt "#30025"
 msgid "Grp Off"
-msgstr ""
+msgstr "Grp Off"
 
 msgctxt "#30026"
 msgid "SP/BG Off"
-msgstr ""
+msgstr "SP/BG Av"
 
 #~ msgctxt "#30000"
 #~ msgid "Settings"

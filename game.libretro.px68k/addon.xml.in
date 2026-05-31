@@ -12,7 +12,7 @@
 		<extensions>dim|img|d88|88d|hdm|dup|2hd|xdf|hdf|cmd|m3u</extensions>
 		<supports_vfs>false</supports_vfs>
 		<supports_standalone>true</supports_standalone>
-		<supports_disc_control>false</supports_disc_control>
+		<supports_disc_control>true</supports_disc_control>
 		<requires_opengl>false</requires_opengl>
 	</extension>
 	<extension point="xbmc.addon.metadata">

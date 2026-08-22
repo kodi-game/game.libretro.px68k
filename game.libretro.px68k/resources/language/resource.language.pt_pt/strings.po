@@ -124,3 +124,131 @@ msgstr ""
 msgctxt "#30026"
 msgid "SP/BG Off"
 msgstr ""
+
+msgctxt "#30027"
+msgid "System"
+msgstr ""
+
+msgctxt "#30028"
+msgid "Change emulated hardware settings."
+msgstr ""
+
+msgctxt "#30029"
+msgid "Sets the built-in menu font size"
+msgstr ""
+
+msgctxt "#30030"
+msgid "Configure the CPU speed. Can be used to slow down games that run too fast or to speed up floppy loading times."
+msgstr ""
+
+msgctxt "#30031"
+msgid "Sets the amount of RAM to be used by the system."
+msgstr ""
+
+msgctxt "#30032"
+msgid "Audio"
+msgstr ""
+
+msgctxt "#30033"
+msgid "Change sound volumes and midi output type."
+msgstr ""
+
+msgctxt "#30034"
+msgid "Enable software MIDI."
+msgstr ""
+
+msgctxt "#30035"
+msgid "Sets MIDI output type."
+msgstr ""
+
+msgctxt "#30036"
+msgid "Sets the volume of the ADPCM sound channel."
+msgstr ""
+
+msgctxt "#30037"
+msgid "Sets the volume of the OPM sound channel."
+msgstr ""
+
+msgctxt "#30038"
+msgid "Input"
+msgstr ""
+
+msgctxt "#30039"
+msgid "Change controller types and button mapping."
+msgstr ""
+
+msgctxt "#30040"
+msgid "Set the joypad type for player 1."
+msgstr ""
+
+msgctxt "#30041"
+msgid "Set the joypad type for player 2."
+msgstr ""
+
+msgctxt "#30042"
+msgid "Assigns a keyboard key to joypad's SELECT button since some games use these keys as the Start or Insert Coin buttons."
+msgstr ""
+
+msgctxt "#30043"
+msgid "Select [Mouse] or [Joypad] to control in-game mouse pointer."
+msgstr ""
+
+msgctxt "#30044"
+msgid "Swaps TRIG1 and TRIG2 buttons when a 2-button gamepad is selected."
+msgstr ""
+
+msgctxt "#30045"
+msgid "Media"
+msgstr ""
+
+msgctxt "#30046"
+msgid "Change floppy disk media swapping options."
+msgstr ""
+
+msgctxt "#30047"
+msgid "By default using the native Disk Swap interface within RetroArch's menu will swap the disk in drive FDD1. Change this option to swap disks in drive FDD0."
+msgstr ""
+
+msgctxt "#30048"
+msgid "When enabled, last loaded fdd path will be saved for each drive and then auto-loaded on startup. When disabled, FDDx starts empty."
+msgstr ""
+
+msgctxt "#30049"
+msgid "When enabled, last loaded hdd path will be saved for each drive and then auto-loaded on startup. When disabled, HDDx starts empty."
+msgstr ""
+
+msgctxt "#30050"
+msgid "Produces rumble effect on supported devices when reading from floppy disks."
+msgstr ""
+
+msgctxt "#30051"
+msgid "Advanced"
+msgstr ""
+
+msgctxt "#30052"
+msgid "Change system-related advanced options for performance or aesthetics."
+msgstr ""
+
+msgctxt "#30053"
+msgid "When set to [enabled], core runs as fast as possible. Can cause audio desync. Setting this [disabled] is recommended."
+msgstr ""
+
+msgctxt "#30054"
+msgid "Choose how many frames will be skipped to improve performance at the expense of visual smoothness."
+msgstr ""
+
+msgctxt "#30055"
+msgid "Prioritize reducing video latency over audio latency and/or stuttering."
+msgstr ""
+
+msgctxt "#30056"
+msgid "For compatibility with modern displays, slightly adjust frame rates reported to frontend in order to reduce the chances of audio stuttering.  Disable to use actual frame rates."
+msgstr ""
+
+msgctxt "#30057"
+msgid "Prevents audio from desynchronizing by simply discarding any audio samples generated past the requested amount per frame slice.  Forces 'No Wait Mode' to [enabled], use appropriate frontend settings to properly throttle content."
+msgstr ""
+
+msgctxt "#30058"
+msgid "TODO:"
+msgstr ""

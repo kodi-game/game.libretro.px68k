@@ -175,15 +175,15 @@
 					<constraints>
 						<options>
 							<option label="571">Default</option>
-							<option>XF1</option>
-							<option>XF2</option>
-							<option>XF3</option>
-							<option>XF4</option>
-							<option>XF5</option>
-							<option>OPT1</option>
-							<option>OPT2</option>
-							<option>F1</option>
-							<option>F2</option>
+							<option label="30059">XF1</option>
+							<option label="30060">XF2</option>
+							<option label="30061">XF3</option>
+							<option label="30062">XF4</option>
+							<option label="30063">XF5</option>
+							<option label="30064">OPT1</option>
+							<option label="30065">OPT2</option>
+							<option label="30066">F1</option>
+							<option label="30067">F2</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />

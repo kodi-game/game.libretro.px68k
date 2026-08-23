@@ -253,6 +253,42 @@ msgctxt "#30058"
 msgid "TODO:"
 msgstr ""
 
+msgctxt "#30059"
+msgid "XF1"
+msgstr ""
+
+msgctxt "#30060"
+msgid "XF2"
+msgstr ""
+
+msgctxt "#30061"
+msgid "XF3"
+msgstr ""
+
+msgctxt "#30062"
+msgid "XF4"
+msgstr ""
+
+msgctxt "#30063"
+msgid "XF5"
+msgstr ""
+
+msgctxt "#30064"
+msgid "OPT1"
+msgstr ""
+
+msgctxt "#30065"
+msgid "OPT2"
+msgstr ""
+
+msgctxt "#30066"
+msgid "F1"
+msgstr ""
+
+msgctxt "#30067"
+msgid "F2"
+msgstr ""
+
 #~ msgctxt "#30000"
 #~ msgid "Settings"
 #~ msgstr "설정"

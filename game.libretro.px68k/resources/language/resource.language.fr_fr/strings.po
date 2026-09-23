@@ -27,83 +27,83 @@ msgstr ""
 
 msgctxt "#30001"
 msgid "Menu Font Size"
-msgstr ""
+msgstr "Taille de la police du menu"
 
 msgctxt "#30002"
 msgid "CPU Speed"
-msgstr ""
+msgstr "Vitesse du CPU"
 
 msgctxt "#30003"
 msgid "RAM Size (Restart)"
-msgstr ""
+msgstr "Taille de la RAM (Redémarrage requis)"
 
 msgctxt "#30004"
 msgid "Use Analog"
-msgstr ""
+msgstr "Utiliser l'analogique"
 
 msgctxt "#30005"
 msgid "P1 Joypad Type"
-msgstr ""
+msgstr "Type de manette du joueur 1"
 
 msgctxt "#30006"
 msgid "P2 Joypad Type"
-msgstr ""
+msgstr "Type de manette du joueur 2"
 
 msgctxt "#30007"
 msgid "P1 Joystick Select Mapping"
-msgstr ""
+msgstr "Mappage de la manette du joueur 1"
 
 msgctxt "#30008"
 msgid "ADPCM Volume"
-msgstr ""
+msgstr "Volume ADPCM"
 
 msgctxt "#30009"
 msgid "OPM Volume"
-msgstr ""
+msgstr "Volume OPM"
 
 msgctxt "#30010"
 msgid "Swap Disks on Drive"
-msgstr ""
+msgstr "Échange de disques sur le lecteur"
 
 msgctxt "#30011"
 msgid "Save FDD Paths"
-msgstr ""
+msgstr "Enregistrer les chemins d'accès aux disquettes"
 
 msgctxt "#30012"
 msgid "Save HDD Paths"
-msgstr ""
+msgstr "Enregistrer les chemins d'accès aux disques durs"
 
 msgctxt "#30013"
 msgid "Rumble on FDD Reads"
-msgstr ""
+msgstr "Faire vibrer la manette pendant la lecture des disquettes"
 
 msgctxt "#30014"
 msgid "Joy/Mouse"
-msgstr ""
+msgstr "Manette / souris"
 
 msgctxt "#30015"
 msgid "VBtn Swap"
-msgstr ""
+msgstr "Echange des boutons"
 
 msgctxt "#30016"
 msgid "No Wait Mode"
-msgstr ""
+msgstr "Mode sans attente"
 
 msgctxt "#30017"
 msgid "Frames Skip"
-msgstr ""
+msgstr "Saut d'images"
 
 msgctxt "#30018"
 msgid "Push Video before Audio"
-msgstr ""
+msgstr "Pousser la vidéo avant l'audio"
 
 msgctxt "#30019"
 msgid "Adjust Frame Rates"
-msgstr ""
+msgstr "Ajuster les fréquences d'images"
 
 msgctxt "#30020"
 msgid "Audio Desync Hack"
-msgstr ""
+msgstr "Hack de désynchronisation de l'audio"
 
 msgctxt "#30021"
 msgid "MIDI Output (Restart)"
@@ -111,7 +111,7 @@ msgstr ""
 
 msgctxt "#30023"
 msgid "MIDI Output Type"
-msgstr ""
+msgstr "MIDI Output Type (Restart)"
 
 msgctxt "#30024"
 msgid "Text Off"
@@ -139,11 +139,11 @@ msgstr ""
 
 msgctxt "#30030"
 msgid "Configure the CPU speed. Can be used to slow down games that run too fast or to speed up floppy loading times."
-msgstr ""
+msgstr "Configurez la vitesse du processeur. Peut être utilisé pour ralentir les jeux trop rapides ou pour accélérer les temps de chargement des disquettes."
 
 msgctxt "#30031"
 msgid "Sets the amount of RAM to be used by the system."
-msgstr ""
+msgstr "Définit la quantité de RAM à utiliser par le système."
 
 msgctxt "#30032"
 msgid "Audio"
@@ -163,11 +163,11 @@ msgstr ""
 
 msgctxt "#30036"
 msgid "Sets the volume of the ADPCM sound channel."
-msgstr ""
+msgstr "Règlage du volume du canal audio ADPCM."
 
 msgctxt "#30037"
 msgid "Sets the volume of the OPM sound channel."
-msgstr ""
+msgstr "Règlage du volume du canal audio OPM."
 
 msgctxt "#30038"
 msgid "Input"
@@ -179,23 +179,23 @@ msgstr ""
 
 msgctxt "#30040"
 msgid "Set the joypad type for player 1."
-msgstr ""
+msgstr "Définit le type de manette du joueur 1."
 
 msgctxt "#30041"
 msgid "Set the joypad type for player 2."
-msgstr ""
+msgstr "Définit le type de manette du joueur 2."
 
 msgctxt "#30042"
 msgid "Assigns a keyboard key to joypad's SELECT button since some games use these keys as the Start or Insert Coin buttons."
-msgstr ""
+msgstr "Attribue une touche du clavier au bouton SELECT de la manette, car certains jeux utilisent ces touches comme bouton Démarrer ou Insérer une pièce."
 
 msgctxt "#30043"
 msgid "Select [Mouse] or [Joypad] to control in-game mouse pointer."
-msgstr ""
+msgstr "Sélectionner la [souris] ou la [manette] pour contrôler le pointeur de souris dans les jeux."
 
 msgctxt "#30044"
 msgid "Swaps TRIG1 and TRIG2 buttons when a 2-button gamepad is selected."
-msgstr ""
+msgstr "Echange le BOUTON1 et le BOUTON2 quand une manette 2 boutons est sélectionné."
 
 msgctxt "#30045"
 msgid "Media"
@@ -207,19 +207,19 @@ msgstr ""
 
 msgctxt "#30047"
 msgid "By default using the native Disk Swap interface within RetroArch's menu will swap the disk in drive FDD1. Change this option to swap disks in drive FDD0."
-msgstr ""
+msgstr "Par défaut, l'interface native de RetroArch, d'échange de disque dans le menu, échange le disque dans le lecteur FDD1. Modifiez cette option pour échanger des disques dans le lecteur FDD0."
 
 msgctxt "#30048"
 msgid "When enabled, last loaded fdd path will be saved for each drive and then auto-loaded on startup. When disabled, FDDx starts empty."
-msgstr ""
+msgstr "Lorsqu'elle est activée, les chemins d'accès aux disquettes précédemment chargés seront enregistrés pour chaque lecteur, puis chargés automatiquement au démarrage. Lorsqu'elle est désactivé, FDDx démarre à vide."
 
 msgctxt "#30049"
 msgid "When enabled, last loaded hdd path will be saved for each drive and then auto-loaded on startup. When disabled, HDDx starts empty."
-msgstr ""
+msgstr "Lorsqu'elle est activée, les chemins d'accès aux disques durs précédemment chargés seront enregistrés pour chaque disque dur puis chargés automatiquement au démarrage. Lorsqu'elle est désactivée, HDDx démarre à vide."
 
 msgctxt "#30050"
 msgid "Produces rumble effect on supported devices when reading from floppy disks."
-msgstr ""
+msgstr "Produit un effet de vibration par les manettes supportées pendant la lecture des disquettes."
 
 msgctxt "#30051"
 msgid "Advanced"
@@ -231,23 +231,23 @@ msgstr ""
 
 msgctxt "#30053"
 msgid "When set to [enabled], core runs as fast as possible. Can cause audio desync. Setting this [disabled] is recommended."
-msgstr ""
+msgstr "Lorsque ce mode est [activé], le cœur s'exécute aussi vite que possible. Cela peut provoquer une désynchronisation audio mais permet une avance rapide. Il est recommandé de définir ce paramètre à [désactivé]."
 
 msgctxt "#30054"
 msgid "Choose how many frames will be skipped to improve performance at the expense of visual smoothness."
-msgstr ""
+msgstr "Choisissez le nombre d'images à ignorer pour améliorer les performances au détriment de la fluidité visuelle."
 
 msgctxt "#30055"
 msgid "Prioritize reducing video latency over audio latency and/or stuttering."
-msgstr ""
+msgstr "Privilégie la réduction de la latence vidéo à la latence audio."
 
 msgctxt "#30056"
 msgid "For compatibility with modern displays, slightly adjust frame rates reported to frontend in order to reduce the chances of audio stuttering.  Disable to use actual frame rates."
-msgstr ""
+msgstr "Pour la compatibilité avec les écrans modernes, ajuste légèrement les fréquences d'images signalées à l'interface afin de réduire les risques de latence audio. Désactivez pour utiliser les fréquences d'images actuelles."
 
 msgctxt "#30057"
 msgid "Prevents audio from desynchronizing by simply discarding any audio samples generated past the requested amount per frame slice.  Forces 'No Wait Mode' to [enabled], use appropriate frontend settings to properly throttle content."
-msgstr ""
+msgstr "Empêche la désynchronisation de l'audio en rejetant simplement tous les échantillons audio générés au-delà de la quantité demandée par tranche d'image. Forcez l'option 'Mode sans attente' sur [Activé], utilisez les options appropriées pour réguler correctement le contenu."
 
 msgctxt "#30058"
 msgid "TODO:"

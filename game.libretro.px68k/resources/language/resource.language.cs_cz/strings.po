@@ -37,22 +37,6 @@ msgctxt "#30003"
 msgid "RAM Size (Restart)"
 msgstr "Velikost RAM (vyžaduje restart)"
 
-msgctxt "#30004"
-msgid "Use Analog"
-msgstr "Používat analogové ovládání"
-
-msgctxt "#30005"
-msgid "P1 Joypad Type"
-msgstr "Typ joypadu P1"
-
-msgctxt "#30006"
-msgid "P2 Joypad Type"
-msgstr "Typ joypadu P2"
-
-msgctxt "#30007"
-msgid "P1 Joystick Select Mapping"
-msgstr "Mapování tlačítka Select joypadu P1"
-
 msgctxt "#30008"
 msgid "ADPCM Volume"
 msgstr "Hlasitost ADPCM"
@@ -77,33 +61,13 @@ msgctxt "#30013"
 msgid "Rumble on FDD Reads"
 msgstr "Vibrace při čtení z FDD"
 
-msgctxt "#30014"
-msgid "Joy/Mouse"
-msgstr "Joypad/myš"
-
-msgctxt "#30015"
-msgid "VBtn Swap"
-msgstr "Prohodit tlačítka TRIG1/TRIG2"
-
-msgctxt "#30016"
-msgid "No Wait Mode"
-msgstr "Režim bez čekání"
-
 msgctxt "#30017"
 msgid "Frames Skip"
 msgstr "Přeskakování snímků"
 
-msgctxt "#30018"
-msgid "Push Video before Audio"
-msgstr "Odesílat video před zvukem"
-
 msgctxt "#30019"
 msgid "Adjust Frame Rates"
 msgstr "Upravovat snímkové frekvence"
-
-msgctxt "#30020"
-msgid "Audio Desync Hack"
-msgstr "Hack proti desynchronizaci zvuku"
 
 msgctxt "#30021"
 msgid "MIDI Output (Restart)"
@@ -177,26 +141,6 @@ msgctxt "#30039"
 msgid "Change controller types and button mapping."
 msgstr "Změnit typy ovladačů a mapování tlačítek."
 
-msgctxt "#30040"
-msgid "Set the joypad type for player 1."
-msgstr "Nastavit typ joypadu pro hráče 1."
-
-msgctxt "#30041"
-msgid "Set the joypad type for player 2."
-msgstr "Nastavit typ joypadu pro hráče 2."
-
-msgctxt "#30042"
-msgid "Assigns a keyboard key to joypad's SELECT button since some games use these keys as the Start or Insert Coin buttons."
-msgstr "Přiřadí klávesu klávesnice tlačítku SELECT joypadu, protože některé hry tyto klávesy používají jako tlačítka Start nebo Insert Coin."
-
-msgctxt "#30043"
-msgid "Select [Mouse] or [Joypad] to control in-game mouse pointer."
-msgstr "Vyberte [Mouse] nebo [Joypad] pro ovládání ukazatele myši ve hře."
-
-msgctxt "#30044"
-msgid "Swaps TRIG1 and TRIG2 buttons when a 2-button gamepad is selected."
-msgstr "Prohodí tlačítka TRIG1 a TRIG2 při výběru dvoutlačítkového gamepadu."
-
 msgctxt "#30045"
 msgid "Media"
 msgstr "Média"
@@ -229,29 +173,9 @@ msgctxt "#30052"
 msgid "Change system-related advanced options for performance or aesthetics."
 msgstr "Změnit pokročilé možnosti systému pro zvýšení výkonu nebo úpravu vzhledu."
 
-msgctxt "#30053"
-msgid "When set to [enabled], core runs as fast as possible. Can cause audio desync. Setting this [disabled] is recommended."
-msgstr "Při nastavení na [enabled] běží jádro co nejrychleji. Může způsobit desynchronizaci zvuku. Doporučuje se nastavit [disabled]."
-
 msgctxt "#30054"
 msgid "Choose how many frames will be skipped to improve performance at the expense of visual smoothness."
 msgstr "Zvolte, kolik snímků se má přeskočit pro zvýšení výkonu na úkor plynulosti obrazu."
-
-msgctxt "#30055"
-msgid "Prioritize reducing video latency over audio latency and/or stuttering."
-msgstr "Upřednostnit snížení latence videa před snížením latence zvuku a/nebo zadrháváním."
-
-msgctxt "#30056"
-msgid "For compatibility with modern displays, slightly adjust frame rates reported to frontend in order to reduce the chances of audio stuttering.  Disable to use actual frame rates."
-msgstr "Kvůli kompatibilitě s moderními displeji se mírně upravují snímkové frekvence hlášené frontendu, aby se snížila pravděpodobnost zadrhávání zvuku. Vypnutím se použijí skutečné snímkové frekvence."
-
-msgctxt "#30057"
-msgid "Prevents audio from desynchronizing by simply discarding any audio samples generated past the requested amount per frame slice.  Forces 'No Wait Mode' to [enabled], use appropriate frontend settings to properly throttle content."
-msgstr "Zabraňuje desynchronizaci zvuku tím, že jednoduše zahazuje vzorky zvuku vytvořené nad požadované množství v každém úseku snímku. Vynutí nastavení volby „Režim bez čekání“ na [enabled]; pro správnou regulaci rychlosti obsahu použijte vhodné nastavení frontendu."
-
-msgctxt "#30058"
-msgid "TODO:"
-msgstr "TODO:"
 
 msgctxt "#30059"
 msgid "XF1"
@@ -273,14 +197,6 @@ msgctxt "#30063"
 msgid "XF5"
 msgstr "XF5"
 
-msgctxt "#30064"
-msgid "OPT1"
-msgstr "OPT1"
-
-msgctxt "#30065"
-msgid "OPT2"
-msgstr "OPT2"
-
 msgctxt "#30066"
 msgid "F1"
 msgstr "F1"
@@ -288,3 +204,87 @@ msgstr "F1"
 msgctxt "#30067"
 msgid "F2"
 msgstr "F2"
+
+#~ msgctxt "#30004"
+#~ msgid "Use Analog"
+#~ msgstr "Používat analogové ovládání"
+
+#~ msgctxt "#30005"
+#~ msgid "P1 Joypad Type"
+#~ msgstr "Typ joypadu P1"
+
+#~ msgctxt "#30006"
+#~ msgid "P2 Joypad Type"
+#~ msgstr "Typ joypadu P2"
+
+#~ msgctxt "#30007"
+#~ msgid "P1 Joystick Select Mapping"
+#~ msgstr "Mapování tlačítka Select joypadu P1"
+
+#~ msgctxt "#30014"
+#~ msgid "Joy/Mouse"
+#~ msgstr "Joypad/myš"
+
+#~ msgctxt "#30015"
+#~ msgid "VBtn Swap"
+#~ msgstr "Prohodit tlačítka TRIG1/TRIG2"
+
+#~ msgctxt "#30016"
+#~ msgid "No Wait Mode"
+#~ msgstr "Režim bez čekání"
+
+#~ msgctxt "#30018"
+#~ msgid "Push Video before Audio"
+#~ msgstr "Odesílat video před zvukem"
+
+#~ msgctxt "#30020"
+#~ msgid "Audio Desync Hack"
+#~ msgstr "Hack proti desynchronizaci zvuku"
+
+#~ msgctxt "#30040"
+#~ msgid "Set the joypad type for player 1."
+#~ msgstr "Nastavit typ joypadu pro hráče 1."
+
+#~ msgctxt "#30041"
+#~ msgid "Set the joypad type for player 2."
+#~ msgstr "Nastavit typ joypadu pro hráče 2."
+
+#~ msgctxt "#30042"
+#~ msgid "Assigns a keyboard key to joypad's SELECT button since some games use these keys as the Start or Insert Coin buttons."
+#~ msgstr "Přiřadí klávesu klávesnice tlačítku SELECT joypadu, protože některé hry tyto klávesy používají jako tlačítka Start nebo Insert Coin."
+
+#~ msgctxt "#30043"
+#~ msgid "Select [Mouse] or [Joypad] to control in-game mouse pointer."
+#~ msgstr "Vyberte [Mouse] nebo [Joypad] pro ovládání ukazatele myši ve hře."
+
+#~ msgctxt "#30044"
+#~ msgid "Swaps TRIG1 and TRIG2 buttons when a 2-button gamepad is selected."
+#~ msgstr "Prohodí tlačítka TRIG1 a TRIG2 při výběru dvoutlačítkového gamepadu."
+
+#~ msgctxt "#30053"
+#~ msgid "When set to [enabled], core runs as fast as possible. Can cause audio desync. Setting this [disabled] is recommended."
+#~ msgstr "Při nastavení na [enabled] běží jádro co nejrychleji. Může způsobit desynchronizaci zvuku. Doporučuje se nastavit [disabled]."
+
+#~ msgctxt "#30055"
+#~ msgid "Prioritize reducing video latency over audio latency and/or stuttering."
+#~ msgstr "Upřednostnit snížení latence videa před snížením latence zvuku a/nebo zadrháváním."
+
+#~ msgctxt "#30056"
+#~ msgid "For compatibility with modern displays, slightly adjust frame rates reported to frontend in order to reduce the chances of audio stuttering.  Disable to use actual frame rates."
+#~ msgstr "Kvůli kompatibilitě s moderními displeji se mírně upravují snímkové frekvence hlášené frontendu, aby se snížila pravděpodobnost zadrhávání zvuku. Vypnutím se použijí skutečné snímkové frekvence."
+
+#~ msgctxt "#30057"
+#~ msgid "Prevents audio from desynchronizing by simply discarding any audio samples generated past the requested amount per frame slice.  Forces 'No Wait Mode' to [enabled], use appropriate frontend settings to properly throttle content."
+#~ msgstr "Zabraňuje desynchronizaci zvuku tím, že jednoduše zahazuje vzorky zvuku vytvořené nad požadované množství v každém úseku snímku. Vynutí nastavení volby „Režim bez čekání“ na [enabled]; pro správnou regulaci rychlosti obsahu použijte vhodné nastavení frontendu."
+
+#~ msgctxt "#30058"
+#~ msgid "TODO:"
+#~ msgstr "TODO:"
+
+#~ msgctxt "#30064"
+#~ msgid "OPT1"
+#~ msgstr "OPT1"
+
+#~ msgctxt "#30065"
+#~ msgid "OPT2"
+#~ msgstr "OPT2"

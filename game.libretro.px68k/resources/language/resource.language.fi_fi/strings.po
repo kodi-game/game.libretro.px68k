@@ -37,22 +37,6 @@ msgctxt "#30003"
 msgid "RAM Size (Restart)"
 msgstr ""
 
-msgctxt "#30004"
-msgid "Use Analog"
-msgstr "Käytä analogista"
-
-msgctxt "#30005"
-msgid "P1 Joypad Type"
-msgstr ""
-
-msgctxt "#30006"
-msgid "P2 Joypad Type"
-msgstr ""
-
-msgctxt "#30007"
-msgid "P1 Joystick Select Mapping"
-msgstr ""
-
 msgctxt "#30008"
 msgid "ADPCM Volume"
 msgstr ""
@@ -77,32 +61,12 @@ msgctxt "#30013"
 msgid "Rumble on FDD Reads"
 msgstr ""
 
-msgctxt "#30014"
-msgid "Joy/Mouse"
-msgstr ""
-
-msgctxt "#30015"
-msgid "VBtn Swap"
-msgstr ""
-
-msgctxt "#30016"
-msgid "No Wait Mode"
-msgstr ""
-
 msgctxt "#30017"
 msgid "Frames Skip"
 msgstr ""
 
-msgctxt "#30018"
-msgid "Push Video before Audio"
-msgstr ""
-
 msgctxt "#30019"
 msgid "Adjust Frame Rates"
-msgstr ""
-
-msgctxt "#30020"
-msgid "Audio Desync Hack"
 msgstr ""
 
 msgctxt "#30021"
@@ -177,26 +141,6 @@ msgctxt "#30039"
 msgid "Change controller types and button mapping."
 msgstr ""
 
-msgctxt "#30040"
-msgid "Set the joypad type for player 1."
-msgstr ""
-
-msgctxt "#30041"
-msgid "Set the joypad type for player 2."
-msgstr ""
-
-msgctxt "#30042"
-msgid "Assigns a keyboard key to joypad's SELECT button since some games use these keys as the Start or Insert Coin buttons."
-msgstr ""
-
-msgctxt "#30043"
-msgid "Select [Mouse] or [Joypad] to control in-game mouse pointer."
-msgstr ""
-
-msgctxt "#30044"
-msgid "Swaps TRIG1 and TRIG2 buttons when a 2-button gamepad is selected."
-msgstr ""
-
 msgctxt "#30045"
 msgid "Media"
 msgstr ""
@@ -229,28 +173,8 @@ msgctxt "#30052"
 msgid "Change system-related advanced options for performance or aesthetics."
 msgstr ""
 
-msgctxt "#30053"
-msgid "When set to [enabled], core runs as fast as possible. Can cause audio desync. Setting this [disabled] is recommended."
-msgstr ""
-
 msgctxt "#30054"
 msgid "Choose how many frames will be skipped to improve performance at the expense of visual smoothness."
-msgstr ""
-
-msgctxt "#30055"
-msgid "Prioritize reducing video latency over audio latency and/or stuttering."
-msgstr ""
-
-msgctxt "#30056"
-msgid "For compatibility with modern displays, slightly adjust frame rates reported to frontend in order to reduce the chances of audio stuttering.  Disable to use actual frame rates."
-msgstr ""
-
-msgctxt "#30057"
-msgid "Prevents audio from desynchronizing by simply discarding any audio samples generated past the requested amount per frame slice.  Forces 'No Wait Mode' to [enabled], use appropriate frontend settings to properly throttle content."
-msgstr ""
-
-msgctxt "#30058"
-msgid "TODO:"
 msgstr ""
 
 msgctxt "#30059"
@@ -273,14 +197,6 @@ msgctxt "#30063"
 msgid "XF5"
 msgstr ""
 
-msgctxt "#30064"
-msgid "OPT1"
-msgstr ""
-
-msgctxt "#30065"
-msgid "OPT2"
-msgstr ""
-
 msgctxt "#30066"
 msgid "F1"
 msgstr ""
@@ -288,6 +204,90 @@ msgstr ""
 msgctxt "#30067"
 msgid "F2"
 msgstr ""
+
+#~ msgctxt "#30004"
+#~ msgid "Use Analog"
+#~ msgstr "Käytä analogista"
+
+#~ msgctxt "#30005"
+#~ msgid "P1 Joypad Type"
+#~ msgstr ""
+
+#~ msgctxt "#30006"
+#~ msgid "P2 Joypad Type"
+#~ msgstr ""
+
+#~ msgctxt "#30007"
+#~ msgid "P1 Joystick Select Mapping"
+#~ msgstr ""
+
+#~ msgctxt "#30014"
+#~ msgid "Joy/Mouse"
+#~ msgstr ""
+
+#~ msgctxt "#30015"
+#~ msgid "VBtn Swap"
+#~ msgstr ""
+
+#~ msgctxt "#30016"
+#~ msgid "No Wait Mode"
+#~ msgstr ""
+
+#~ msgctxt "#30018"
+#~ msgid "Push Video before Audio"
+#~ msgstr ""
+
+#~ msgctxt "#30020"
+#~ msgid "Audio Desync Hack"
+#~ msgstr ""
+
+#~ msgctxt "#30040"
+#~ msgid "Set the joypad type for player 1."
+#~ msgstr ""
+
+#~ msgctxt "#30041"
+#~ msgid "Set the joypad type for player 2."
+#~ msgstr ""
+
+#~ msgctxt "#30042"
+#~ msgid "Assigns a keyboard key to joypad's SELECT button since some games use these keys as the Start or Insert Coin buttons."
+#~ msgstr ""
+
+#~ msgctxt "#30043"
+#~ msgid "Select [Mouse] or [Joypad] to control in-game mouse pointer."
+#~ msgstr ""
+
+#~ msgctxt "#30044"
+#~ msgid "Swaps TRIG1 and TRIG2 buttons when a 2-button gamepad is selected."
+#~ msgstr ""
+
+#~ msgctxt "#30053"
+#~ msgid "When set to [enabled], core runs as fast as possible. Can cause audio desync. Setting this [disabled] is recommended."
+#~ msgstr ""
+
+#~ msgctxt "#30055"
+#~ msgid "Prioritize reducing video latency over audio latency and/or stuttering."
+#~ msgstr ""
+
+#~ msgctxt "#30056"
+#~ msgid "For compatibility with modern displays, slightly adjust frame rates reported to frontend in order to reduce the chances of audio stuttering.  Disable to use actual frame rates."
+#~ msgstr ""
+
+#~ msgctxt "#30057"
+#~ msgid "Prevents audio from desynchronizing by simply discarding any audio samples generated past the requested amount per frame slice.  Forces 'No Wait Mode' to [enabled], use appropriate frontend settings to properly throttle content."
+#~ msgstr ""
+
+#~ msgctxt "#30058"
+#~ msgid "TODO:"
+#~ msgstr ""
+
+#~ msgctxt "#30064"
+#~ msgid "OPT1"
+#~ msgstr ""
+
+#~ msgctxt "#30065"
+#~ msgid "OPT2"
+#~ msgstr ""
 
 #~ msgctxt "#30000"
 #~ msgid "Settings"

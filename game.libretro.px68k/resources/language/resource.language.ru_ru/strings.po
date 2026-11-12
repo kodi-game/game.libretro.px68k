@@ -37,22 +37,6 @@ msgctxt "#30003"
 msgid "RAM Size (Restart)"
 msgstr "Размер ОЗУ (Перезапуск)"
 
-msgctxt "#30004"
-msgid "Use Analog"
-msgstr "Использовать аналоговый режим"
-
-msgctxt "#30005"
-msgid "P1 Joypad Type"
-msgstr "Тип джойпада P1"
-
-msgctxt "#30006"
-msgid "P2 Joypad Type"
-msgstr "Тип джойпада P2"
-
-msgctxt "#30007"
-msgid "P1 Joystick Select Mapping"
-msgstr "Сопоставление кнопки выбора джойстика P1"
-
 msgctxt "#30008"
 msgid "ADPCM Volume"
 msgstr "Громкость ADPCM"
@@ -77,33 +61,13 @@ msgctxt "#30013"
 msgid "Rumble on FDD Reads"
 msgstr "Вибрация при чтении FDD"
 
-msgctxt "#30014"
-msgid "Joy/Mouse"
-msgstr "Джойстик/мышь"
-
-msgctxt "#30015"
-msgid "VBtn Swap"
-msgstr "Обмен виртуальных кнопок"
-
-msgctxt "#30016"
-msgid "No Wait Mode"
-msgstr "Режим без ожидания"
-
 msgctxt "#30017"
 msgid "Frames Skip"
 msgstr "Пропуск кадров"
 
-msgctxt "#30018"
-msgid "Push Video before Audio"
-msgstr "Отправлять видео перед аудио"
-
 msgctxt "#30019"
 msgid "Adjust Frame Rates"
 msgstr "Настройка частоты кадров"
-
-msgctxt "#30020"
-msgid "Audio Desync Hack"
-msgstr "Хак десинхронизации аудио"
 
 msgctxt "#30021"
 msgid "MIDI Output (Restart)"
@@ -177,26 +141,6 @@ msgctxt "#30039"
 msgid "Change controller types and button mapping."
 msgstr "Изменить типы контроллеров и сопоставление кнопок."
 
-msgctxt "#30040"
-msgid "Set the joypad type for player 1."
-msgstr "Задать тип геймпада для игрока 1."
-
-msgctxt "#30041"
-msgid "Set the joypad type for player 2."
-msgstr "Задать тип геймпада для игрока 2."
-
-msgctxt "#30042"
-msgid "Assigns a keyboard key to joypad's SELECT button since some games use these keys as the Start or Insert Coin buttons."
-msgstr "Назначает клавишу клавиатуры на кнопку SELECT геймпада, так как некоторые игры используют эти клавиши как кнопки Start или Insert Coin."
-
-msgctxt "#30043"
-msgid "Select [Mouse] or [Joypad] to control in-game mouse pointer."
-msgstr "Выберите [Мышь] или [Геймпад] для управления внутриигровым указателем мыши."
-
-msgctxt "#30044"
-msgid "Swaps TRIG1 and TRIG2 buttons when a 2-button gamepad is selected."
-msgstr "Меняет местами кнопки TRIG1 и TRIG2, когда выбран геймпад с 2 кнопками."
-
 msgctxt "#30045"
 msgid "Media"
 msgstr "Носители"
@@ -229,29 +173,9 @@ msgctxt "#30052"
 msgid "Change system-related advanced options for performance or aesthetics."
 msgstr "Изменить связанные с системой дополнительные параметры для производительности или внешнего вида."
 
-msgctxt "#30053"
-msgid "When set to [enabled], core runs as fast as possible. Can cause audio desync. Setting this [disabled] is recommended."
-msgstr "Когда установлено [включено], ядро работает как можно быстрее. Может вызвать рассинхронизацию звука. Рекомендуется установить [отключено]."
-
 msgctxt "#30054"
 msgid "Choose how many frames will be skipped to improve performance at the expense of visual smoothness."
 msgstr "Выберите, сколько кадров будет пропущено для повышения производительности за счёт визуальной плавности."
-
-msgctxt "#30055"
-msgid "Prioritize reducing video latency over audio latency and/or stuttering."
-msgstr "Отдавать приоритет снижению задержки видео над задержкой звука и/или подтормаживаниями."
-
-msgctxt "#30056"
-msgid "For compatibility with modern displays, slightly adjust frame rates reported to frontend in order to reduce the chances of audio stuttering.  Disable to use actual frame rates."
-msgstr "Для совместимости с современными дисплеями слегка корректировать частоты кадров, сообщаемые фронтенду, чтобы снизить вероятность подтормаживания звука. Отключите, чтобы использовать фактические частоты кадров."
-
-msgctxt "#30057"
-msgid "Prevents audio from desynchronizing by simply discarding any audio samples generated past the requested amount per frame slice.  Forces 'No Wait Mode' to [enabled], use appropriate frontend settings to properly throttle content."
-msgstr "Предотвращает рассинхронизацию звука путём простого отбрасывания любых звуковых сэмплов, созданных сверх запрошенного количества на срез кадра. Принудительно включает «Режим без ожидания», используйте соответствующие настройки фронтенда для правильного ограничения содержимого."
-
-msgctxt "#30058"
-msgid "TODO:"
-msgstr "TODO:"
 
 msgctxt "#30059"
 msgid "XF1"
@@ -273,14 +197,6 @@ msgctxt "#30063"
 msgid "XF5"
 msgstr "XF5"
 
-msgctxt "#30064"
-msgid "OPT1"
-msgstr "OPT1"
-
-msgctxt "#30065"
-msgid "OPT2"
-msgstr "OPT2"
-
 msgctxt "#30066"
 msgid "F1"
 msgstr "F1"
@@ -288,6 +204,90 @@ msgstr "F1"
 msgctxt "#30067"
 msgid "F2"
 msgstr "F2"
+
+#~ msgctxt "#30004"
+#~ msgid "Use Analog"
+#~ msgstr "Использовать аналоговый режим"
+
+#~ msgctxt "#30005"
+#~ msgid "P1 Joypad Type"
+#~ msgstr "Тип джойпада P1"
+
+#~ msgctxt "#30006"
+#~ msgid "P2 Joypad Type"
+#~ msgstr "Тип джойпада P2"
+
+#~ msgctxt "#30007"
+#~ msgid "P1 Joystick Select Mapping"
+#~ msgstr "Сопоставление кнопки выбора джойстика P1"
+
+#~ msgctxt "#30014"
+#~ msgid "Joy/Mouse"
+#~ msgstr "Джойстик/мышь"
+
+#~ msgctxt "#30015"
+#~ msgid "VBtn Swap"
+#~ msgstr "Обмен виртуальных кнопок"
+
+#~ msgctxt "#30016"
+#~ msgid "No Wait Mode"
+#~ msgstr "Режим без ожидания"
+
+#~ msgctxt "#30018"
+#~ msgid "Push Video before Audio"
+#~ msgstr "Отправлять видео перед аудио"
+
+#~ msgctxt "#30020"
+#~ msgid "Audio Desync Hack"
+#~ msgstr "Хак десинхронизации аудио"
+
+#~ msgctxt "#30040"
+#~ msgid "Set the joypad type for player 1."
+#~ msgstr "Задать тип геймпада для игрока 1."
+
+#~ msgctxt "#30041"
+#~ msgid "Set the joypad type for player 2."
+#~ msgstr "Задать тип геймпада для игрока 2."
+
+#~ msgctxt "#30042"
+#~ msgid "Assigns a keyboard key to joypad's SELECT button since some games use these keys as the Start or Insert Coin buttons."
+#~ msgstr "Назначает клавишу клавиатуры на кнопку SELECT геймпада, так как некоторые игры используют эти клавиши как кнопки Start или Insert Coin."
+
+#~ msgctxt "#30043"
+#~ msgid "Select [Mouse] or [Joypad] to control in-game mouse pointer."
+#~ msgstr "Выберите [Мышь] или [Геймпад] для управления внутриигровым указателем мыши."
+
+#~ msgctxt "#30044"
+#~ msgid "Swaps TRIG1 and TRIG2 buttons when a 2-button gamepad is selected."
+#~ msgstr "Меняет местами кнопки TRIG1 и TRIG2, когда выбран геймпад с 2 кнопками."
+
+#~ msgctxt "#30053"
+#~ msgid "When set to [enabled], core runs as fast as possible. Can cause audio desync. Setting this [disabled] is recommended."
+#~ msgstr "Когда установлено [включено], ядро работает как можно быстрее. Может вызвать рассинхронизацию звука. Рекомендуется установить [отключено]."
+
+#~ msgctxt "#30055"
+#~ msgid "Prioritize reducing video latency over audio latency and/or stuttering."
+#~ msgstr "Отдавать приоритет снижению задержки видео над задержкой звука и/или подтормаживаниями."
+
+#~ msgctxt "#30056"
+#~ msgid "For compatibility with modern displays, slightly adjust frame rates reported to frontend in order to reduce the chances of audio stuttering.  Disable to use actual frame rates."
+#~ msgstr "Для совместимости с современными дисплеями слегка корректировать частоты кадров, сообщаемые фронтенду, чтобы снизить вероятность подтормаживания звука. Отключите, чтобы использовать фактические частоты кадров."
+
+#~ msgctxt "#30057"
+#~ msgid "Prevents audio from desynchronizing by simply discarding any audio samples generated past the requested amount per frame slice.  Forces 'No Wait Mode' to [enabled], use appropriate frontend settings to properly throttle content."
+#~ msgstr "Предотвращает рассинхронизацию звука путём простого отбрасывания любых звуковых сэмплов, созданных сверх запрошенного количества на срез кадра. Принудительно включает «Режим без ожидания», используйте соответствующие настройки фронтенда для правильного ограничения содержимого."
+
+#~ msgctxt "#30058"
+#~ msgid "TODO:"
+#~ msgstr "TODO:"
+
+#~ msgctxt "#30064"
+#~ msgid "OPT1"
+#~ msgstr "OPT1"
+
+#~ msgctxt "#30065"
+#~ msgid "OPT2"
+#~ msgstr "OPT2"
 
 #~ msgctxt "#30000"
 #~ msgid "Settings"

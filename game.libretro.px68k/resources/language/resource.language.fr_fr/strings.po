@@ -1509,18 +1509,6 @@ msgstr "TODO:"
 #~ msgid "Prevents audio from desynchronizing by simply discarding any audio samples generated past the requested amount per frame slice.  Forces 'No Wait Mode' to [enabled], use appropriate frontend settings to properly throttle content."
 #~ msgstr "Empêche la désynchronisation de l'audio en rejetant simplement tous les échantillons audio générés au-delà de la quantité demandée par tranche d'image. Forcez l'option 'Mode sans attente' sur [Activé], utilisez les options appropriées pour réguler correctement le contenu."
 
-#~ msgctxt "#30058"
-#~ msgid "TODO:"
-#~ msgstr ""
-
-#~ msgctxt "#30064"
-#~ msgid "OPT1"
-#~ msgstr ""
-
-#~ msgctxt "#30065"
-#~ msgid "OPT2"
-#~ msgstr ""
-
 #~ msgctxt "#30000"
 #~ msgid "Settings"
 #~ msgstr "Paramètres"

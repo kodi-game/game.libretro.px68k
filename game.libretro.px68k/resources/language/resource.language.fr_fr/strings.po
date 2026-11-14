@@ -1512,3 +1512,15 @@ msgstr "TODO:"
 #~ msgctxt "#30000"
 #~ msgid "Settings"
 #~ msgstr "Paramètres"
+
+#~ msgctxt "#30058"
+#~ msgid "TODO:"
+#~ msgstr ""
+
+#~ msgctxt "#30064"
+#~ msgid "OPT1"
+#~ msgstr ""
+
+#~ msgctxt "#30065"
+#~ msgid "OPT2"
+#~ msgstr ""

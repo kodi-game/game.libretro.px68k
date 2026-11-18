@@ -7,15 +7,15 @@ msgstr ""
 "Project-Id-Version: game.libretro.px68k\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: 2020-09-01 13:05i\n"
-"PO-Revision-Date: 2026-08-23 09:12+0000\n"
-"Last-Translator: Michal Várady <miko.vaji@gmail.com>\n"
+"PO-Revision-Date: 2026-11-14 07:04+0000\n"
+"Last-Translator: Automatic translation add-on <noreply-addon-autotranslate@weblate.org>\n"
 "Language-Team: Czech <https://kodi.weblate.cloud/projects/kodi-add-ons-game/game-libretro-px68k/cs_cz/>\n"
 "Language: cs_cz\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Weblate 2026.8.1\n"
+"X-Generator: Weblate 2026.11.2\n"
 
 msgctxt "Addon Summary"
 msgid "Sharp - X68000 (PX68k)"
@@ -207,471 +207,478 @@ msgstr "F2"
 
 msgctxt "#30068"
 msgid "CPU Emulation"
-msgstr ""
+msgstr "Emulace CPU"
 
 msgctxt "#30069"
 msgid "Select the 68000 CPU emulator. Restart the core after changing this option."
-msgstr ""
+msgstr "Vyberte emulátor CPU 68000. Po změně této volby restartujte jádro."
 
 msgctxt "#30070"
 msgid "BG/Sprite RAM Wait States"
-msgstr ""
+msgstr "Čekací stavy paměti RAM pro BG/sprity"
 
 msgctxt "#30071"
 msgid "Emulate the slow CPU access to the sprite RAM without changing the CPU speed. Sprite table changes made in the middle of the screen (raster sprite multiplexing) are shown a few lines later, as one block, like on real hardware. Fixes sprites that are cut off in Puyo Puyo."
-msgstr ""
+msgstr "Emulovat pomalý přístup CPU k paměti RAM spritů bez změny rychlosti CPU. Změny tabulky spritů provedené uprostřed obrazovky (rastrový multiplexing spritů) se zobrazí o několik řádků později jako jeden blok, stejně jako na skutečném hardwaru. Opravuje oříznuté sprity ve hře Puyo Puyo."
 
 msgctxt "#30072"
 msgid "Video"
-msgstr ""
+msgstr "Video"
 
 msgctxt "#30073"
 msgid "Change video output and aspect ratio settings."
-msgstr ""
+msgstr "Změnit nastavení obrazového výstupu a poměru stran."
 
 msgctxt "#30074"
 msgid "Aspect Ratio"
-msgstr ""
+msgstr "Poměr stran"
 
 msgctxt "#30075"
 msgid "Aspect ratio of the displayed picture. '4:3' stretches every picture to fill a 4:3 screen. 'X68000' reproduces what a real X68000 and its 4:3 monitor show: the size of the picture is computed from the CRTC and dot clock timing, so modes that use only part of the scan line or of the screen height (e.g. Cotton 512*256 Hi uses 75% of the width) get black borders. '1:1' shows square pixels at the core's raw resolution."
-msgstr ""
+msgstr "Poměr stran zobrazovaného obrazu. „4:3“ roztáhne každý obraz tak, aby vyplnil obrazovku s poměrem stran 4:3. „X68000“ napodobuje to, co zobrazuje skutečný X68000 a jeho monitor s poměrem stran 4:3: velikost obrazu se vypočítává z časování CRTC a pixelového taktu, takže režimy, které využívají pouze část skenovacího řádku nebo výšky obrazovky (např. Cotton 512*256 Hi využívá 75 % šířky), mají černé okraje. „1:1“ zobrazuje čtvercové pixely v nezpracovaném rozlišení jádra."
 
 msgctxt "#30076"
 msgid "4:3 (fill screen)"
-msgstr ""
+msgstr "4:3 (vyplnit obrazovku)"
 
 msgctxt "#30077"
 msgid "X68000 (CRT timing)"
-msgstr ""
+msgstr "X68000 (časování CRT)"
 
 msgctxt "#30078"
 msgid "1:1 (square pixels)"
-msgstr ""
+msgstr "1:1 (čtvercové pixely)"
 
 msgctxt "#30079"
 msgid "For compatibility with modern displays, changes the 15KHz mode from 61.46 to 60Hz. Disable to get the real machine timing."
-msgstr ""
+msgstr "Kvůli kompatibilitě s moderními displeji upravuje režim 15 kHz z 61,46 na 60 Hz. Vypnutím se použije časování skutečného stroje."
 
 msgctxt "#30080"
 msgid "Joy2Mouse"
-msgstr ""
+msgstr "Joy2Mouse"
 
 msgctxt "#30081"
 msgid "Adds P1 D-pad and left analog stick mouse movement. Assign Mouse Btn1 and Mouse Btn2 to P1 Joy2Key inputs to use them as mouse clicks."
-msgstr ""
+msgstr "Přidává ovládání pohybu myši směrovým křížem a levou analogovou páčkou hráče P1. Přiřaďte Mouse Btn1 a Mouse Btn2 vstupům P1 Joy2Key, abyste je mohli používat ke klikání myší."
 
 msgctxt "#30082"
 msgid "Joy2Mouse Analog speed"
-msgstr ""
+msgstr "Joy2Mouse – rychlost analogového ovládání"
 
 msgctxt "#30083"
 msgid "Maximum mouse movement speed for the left analog stick, in mouse units per frame."
-msgstr ""
+msgstr "Maximální rychlost pohybu myši při ovládání levou analogovou páčkou, v jednotkách myši na snímek."
 
 msgctxt "#30084"
 msgid "Joy2Mouse Analog deadzone"
-msgstr ""
+msgstr "Joy2Mouse – mrtvá zóna analogového ovládání"
 
 msgctxt "#30085"
 msgid "Analog stick deadzone percentage. Increase this if the mouse pointer drifts when the stick is released."
-msgstr ""
+msgstr "Mrtvá zóna analogové páčky v procentech. Zvyšte tuto hodnotu, pokud se ukazatel myši po uvolnění páčky samovolně pohybuje."
 
 msgctxt "#30086"
 msgid "Joy2Mouse Digital speed"
-msgstr ""
+msgstr "Joy2Mouse – rychlost digitálního ovládání"
 
 msgctxt "#30087"
 msgid "Mouse movement speed for the D-pad, in mouse units per frame."
-msgstr ""
+msgstr "Rychlost pohybu myši při ovládání směrovým křížem, v jednotkách myši na snímek."
 
 msgctxt "#30088"
 msgid "OSD Keyboard Theme"
-msgstr ""
+msgstr "Motiv klávesnice na obrazovce"
 
 msgctxt "#30089"
 msgid "Style and color theme for the OSD keyboard."
-msgstr ""
+msgstr "Styl a barevný motiv klávesnice na obrazovce."
 
 msgctxt "#30090"
 msgid "Flat Light"
-msgstr ""
+msgstr "Plochý světlý"
 
 msgctxt "#30091"
 msgid "Flat Dark"
-msgstr ""
+msgstr "Plochý tmavý"
 
 msgctxt "#30092"
 msgid "3D Light"
-msgstr ""
+msgstr "3D světlý"
 
 msgctxt "#30093"
 msgid "3D Dark"
-msgstr ""
+msgstr "3D tmavý"
 
 msgctxt "#30094"
 msgid "OSD Keyboard Special Key Labels"
-msgstr ""
+msgstr "Popisky speciálních kláves klávesnice na obrazovce"
 
 msgctxt "#30095"
 msgid "Latin: the keys are labelled KAN, ROM, COD, KIG, TOR, HIR and ZEN. Japanese: they show the captions printed on a real X68000 keyboard."
-msgstr ""
+msgstr "Latinka: klávesy jsou označeny KAN, ROM, COD, KIG, TOR, HIR a ZEN. Japonština: zobrazují popisky vytištěné na skutečné klávesnici X68000."
 
 msgctxt "#30096"
 msgid "Latin"
-msgstr ""
+msgstr "Latinka"
 
 msgctxt "#30097"
 msgid "Japanese"
-msgstr ""
+msgstr "Japonština"
 
 msgctxt "#30098"
 msgid "OSD Keyboard Layout"
-msgstr ""
+msgstr "Rozvržení klávesnice na obrazovce"
 
 msgctxt "#30099"
 msgid "Choose how the game is displayed while the OSD keyboard is open."
-msgstr ""
+msgstr "Zvolte způsob zobrazení hry při otevřené klávesnici na obrazovce."
 
 msgctxt "#30100"
 msgid "Game above keyboard"
-msgstr ""
+msgstr "Hra nad klávesnicí"
 
 msgctxt "#30101"
 msgid "Fullscreen behind keyboard"
-msgstr ""
+msgstr "Celá obrazovka za klávesnicí"
 
 msgctxt "#30102"
 msgid "OSD Keyboard Opacity"
-msgstr ""
+msgstr "Neprůhlednost klávesnice na obrazovce"
 
 msgctxt "#30103"
 msgid "Opacity of the on-screen keyboard, from 0% to 100% in 5% steps (right raises it, left lowers it). Lower values let the game show through when the layout is 'Fullscreen behind keyboard'; with 'Game above keyboard' the keyboard fades towards black. At 0% the keyboard is invisible but still works."
-msgstr ""
+msgstr "Neprůhlednost klávesnice na obrazovce od 0 % do 100 % v krocích po 5 % (doprava se zvyšuje, doleva snižuje). Při nižších hodnotách v rozvržení „Celá obrazovka za klávesnicí“ prosvítá hra; v rozvržení „Hra nad klávesnicí“ se klávesnice ztrácí do černé. Při 0 % je klávesnice neviditelná, ale stále funguje."
 
 msgctxt "#30104"
 msgid "0%"
-msgstr ""
+msgstr "0 %"
 
 msgctxt "#30105"
 msgid "5%"
-msgstr ""
+msgstr "5 %"
 
 msgctxt "#30106"
 msgid "10%"
-msgstr ""
+msgstr "10 %"
 
 msgctxt "#30107"
 msgid "15%"
-msgstr ""
+msgstr "15 %"
 
 msgctxt "#30108"
 msgid "20%"
-msgstr ""
+msgstr "20 %"
 
 msgctxt "#30109"
 msgid "25%"
-msgstr ""
+msgstr "25 %"
 
 msgctxt "#30110"
 msgid "30%"
-msgstr ""
+msgstr "30 %"
 
 msgctxt "#30111"
 msgid "35%"
-msgstr ""
+msgstr "35 %"
 
 msgctxt "#30112"
 msgid "40%"
-msgstr ""
+msgstr "40 %"
 
 msgctxt "#30113"
 msgid "45%"
-msgstr ""
+msgstr "45 %"
 
 msgctxt "#30114"
 msgid "50%"
-msgstr ""
+msgstr "50 %"
 
 msgctxt "#30115"
 msgid "55%"
-msgstr ""
+msgstr "55 %"
 
 msgctxt "#30116"
 msgid "60%"
-msgstr ""
+msgstr "60 %"
 
 msgctxt "#30117"
 msgid "65%"
-msgstr ""
+msgstr "65 %"
 
 msgctxt "#30118"
 msgid "70%"
-msgstr ""
+msgstr "70 %"
 
 msgctxt "#30119"
 msgid "75%"
-msgstr ""
+msgstr "75 %"
 
 msgctxt "#30120"
 msgid "80%"
-msgstr ""
+msgstr "80 %"
 
 msgctxt "#30121"
 msgid "85%"
-msgstr ""
+msgstr "85 %"
 
 msgctxt "#30122"
 msgid "90%"
-msgstr ""
+msgstr "90 %"
 
 msgctxt "#30123"
 msgid "95%"
-msgstr ""
+msgstr "95 %"
 
 msgctxt "#30124"
 msgid "100%"
-msgstr ""
+msgstr "100 %"
 
 msgctxt "#30125"
 msgid "OSD Keyboard Active Key Tint"
-msgstr ""
+msgstr "Zabarvení aktivní klávesy klávesnice na obrazovce"
 
 msgctxt "#30126"
 msgid "Face colour of the currently selected key."
-msgstr ""
+msgstr "Barva plochy právě vybrané klávesy."
 
 msgctxt "#30127"
 msgid "Off"
-msgstr ""
+msgstr "Vypnuto"
 
 msgctxt "#30128"
 msgid "White"
-msgstr ""
+msgstr "Bílá"
 
 msgctxt "#30129"
 msgid "Grey"
-msgstr ""
+msgstr "Šedá"
 
 msgctxt "#30130"
 msgid "Black"
-msgstr ""
+msgstr "Černá"
 
 msgctxt "#30131"
 msgid "Red (pale)"
-msgstr ""
+msgstr "Červená (světlá)"
 
 msgctxt "#30132"
 msgid "Red (vivid)"
-msgstr ""
+msgstr "Červená (sytá)"
 
 msgctxt "#30133"
 msgid "Red (deep)"
-msgstr ""
+msgstr "Červená (tmavá)"
 
 msgctxt "#30134"
 msgid "Orange (pale)"
-msgstr ""
+msgstr "Oranžová (světlá)"
 
 msgctxt "#30135"
 msgid "Orange (vivid)"
-msgstr ""
+msgstr "Oranžová (sytá)"
 
 msgctxt "#30136"
 msgid "Orange (deep)"
-msgstr ""
+msgstr "Oranžová (tmavá)"
 
 msgctxt "#30137"
 msgid "Yellow (pale)"
-msgstr ""
+msgstr "Žlutá (světlá)"
 
 msgctxt "#30138"
 msgid "Yellow (vivid)"
-msgstr ""
+msgstr "Žlutá (sytá)"
 
 msgctxt "#30139"
 msgid "Yellow (deep)"
-msgstr ""
+msgstr "Žlutá (tmavá)"
 
 msgctxt "#30140"
 msgid "Green (pale)"
-msgstr ""
+msgstr "Zelená (světlá)"
 
 msgctxt "#30141"
 msgid "Green (vivid)"
-msgstr ""
+msgstr "Zelená (sytá)"
 
 msgctxt "#30142"
 msgid "Green (deep)"
-msgstr ""
+msgstr "Zelená (tmavá)"
 
 msgctxt "#30143"
 msgid "Cyan (pale)"
-msgstr ""
+msgstr "Azurová (světlá)"
 
 msgctxt "#30144"
 msgid "Cyan (vivid)"
-msgstr ""
+msgstr "Azurová (sytá)"
 
 msgctxt "#30145"
 msgid "Cyan (deep)"
-msgstr ""
+msgstr "Azurová (tmavá)"
 
 msgctxt "#30146"
 msgid "Blue (pale)"
-msgstr ""
+msgstr "Modrá (světlá)"
 
 msgctxt "#30147"
 msgid "Blue (vivid)"
-msgstr ""
+msgstr "Modrá (sytá)"
 
 msgctxt "#30148"
 msgid "Blue (deep)"
-msgstr ""
+msgstr "Modrá (tmavá)"
 
 msgctxt "#30149"
 msgid "Purple (pale)"
-msgstr ""
+msgstr "Fialová (světlá)"
 
 msgctxt "#30150"
 msgid "Purple (vivid)"
-msgstr ""
+msgstr "Fialová (sytá)"
 
 msgctxt "#30151"
 msgid "Purple (deep)"
-msgstr ""
+msgstr "Fialová (tmavá)"
 
 msgctxt "#30152"
 msgid "Magenta (pale)"
-msgstr ""
+msgstr "Purpurová (světlá)"
 
 msgctxt "#30153"
 msgid "Magenta (vivid)"
-msgstr ""
+msgstr "Purpurová (sytá)"
 
 msgctxt "#30154"
 msgid "Magenta (deep)"
-msgstr ""
+msgstr "Purpurová (tmavá)"
 
 msgctxt "#30155"
 msgid "OSD Keyboard Selection Frame"
-msgstr ""
+msgstr "Rámeček výběru klávesnice na obrazovce"
 
 msgctxt "#30156"
 msgid "Colour of the square drawn around the selected key."
-msgstr ""
+msgstr "Barva čtverce vykresleného kolem vybrané klávesy."
 
 msgctxt "#30157"
 msgid "OSD Keyboard Mouse Hover"
-msgstr ""
+msgstr "Výběr myší na klávesnici na obrazovce"
 
 msgctxt "#30158"
 msgid "When enabled, the selected key follows the mouse cursor as it moves over the on-screen keyboard. The selection only changes when the mouse actually moves, so it never fights gamepad navigation."
-msgstr ""
+msgstr "Je-li povoleno, výběr klávesy sleduje kurzor myši při jeho pohybu po klávesnici na obrazovce. Výběr se mění pouze tehdy, když se myš skutečně pohne, takže nikdy nekoliduje s navigací gamepadem."
 
 msgctxt "#30159"
 msgid "Enabled"
-msgstr ""
+msgstr "Povoleno"
 
 msgctxt "#30160"
 msgid "Disabled"
-msgstr ""
+msgstr "Zakázáno"
 
 msgctxt "#30161"
 msgid "OSD Keyboard Press Feedback"
-msgstr ""
+msgstr "Odezva klávesnice na obrazovce při stisku"
 
 msgctxt "#30162"
 msgid "Visual reaction when a key is touched, clicked or pressed from the pad. Flash: the key lights up and fades out after release, so even a quick tap is visible. Flash + key press: the key also sinks while pressed."
-msgstr ""
+msgstr "Vizuální odezva při dotyku klávesy, kliknutí na ni nebo jejím stisknutí pomocí gamepadu. Záblesk: klávesa se rozsvítí a po uvolnění postupně zhasne, takže je vidět i krátké klepnutí. Záblesk + stisk klávesy: klávesa je během stisku navíc zatlačená dolů."
 
 msgctxt "#30163"
 msgid "Flash"
-msgstr ""
+msgstr "Záblesk"
 
 msgctxt "#30164"
 msgid "Flash + key press"
-msgstr ""
+msgstr "Záblesk + stisk klávesy"
 
 msgctxt "#30165"
 msgid "Key Repeat Delay"
-msgstr ""
+msgstr "Prodleva opakování kláves"
 
 msgctxt "#30166"
 msgid "Time a key must be held before it starts repeating. 'Machine' follows whatever the X68000 software programs into the keyboard (500 ms by default)."
-msgstr ""
+msgstr "Doba, po kterou je nutné klávesu držet, než se začne opakovat. „Stroj“ se řídí hodnotou, kterou software X68000 nastaví v klávesnici (ve výchozím nastavení 500 ms)."
 
 msgctxt "#30167"
 msgid "Machine (X68000 setting)"
-msgstr ""
+msgstr "Stroj (nastavení X68000)"
 
 msgctxt "#30168"
 msgid "Off (no key repeat)"
-msgstr ""
+msgstr "Vypnuto (bez opakování kláves)"
 
 msgctxt "#30169"
 msgid "200 ms"
-msgstr ""
+msgstr "200 ms"
 
 msgctxt "#30170"
 msgid "300 ms"
-msgstr ""
+msgstr "300 ms"
 
 msgctxt "#30171"
 msgid "400 ms"
-msgstr ""
+msgstr "400 ms"
 
 msgctxt "#30172"
 msgid "500 ms"
-msgstr ""
+msgstr "500 ms"
 
+#, fuzzy
 msgctxt "#30173"
 msgid "700 ms"
-msgstr ""
+msgstr "700 ms"
 
+#, fuzzy
 msgctxt "#30174"
 msgid "1000 ms"
-msgstr ""
+msgstr "1000 ms"
 
 msgctxt "#30175"
 msgid "Key Repeat Interval"
-msgstr ""
+msgstr "Interval opakování kláves"
 
 msgctxt "#30176"
 msgid "Time between repeats once a held key is repeating. 'Machine' follows the X68000 setting (110 ms by default)."
-msgstr ""
+msgstr "Doba mezi opakováními, jakmile se držená klávesa začne opakovat. „Stroj“ se řídí nastavením X68000 (ve výchozím nastavení 110 ms)."
 
+#, fuzzy
 msgctxt "#30177"
 msgid "30 ms"
-msgstr ""
+msgstr "30 ms"
 
+#, fuzzy
 msgctxt "#30178"
 msgid "50 ms"
-msgstr ""
+msgstr "50 ms"
 
+#, fuzzy
 msgctxt "#30179"
 msgid "75 ms"
-msgstr ""
+msgstr "75 ms"
 
+#, fuzzy
 msgctxt "#30180"
 msgid "100 ms"
-msgstr ""
+msgstr "100 ms"
 
+#, fuzzy
 msgctxt "#30181"
 msgid "150 ms"
-msgstr ""
+msgstr "150 ms"
 
 msgctxt "#30182"
 msgid "P1 Joy2Key"
-msgstr ""
+msgstr "P1 Joy2Key"
 
 msgctxt "#30183"
 msgid "Map Player 1 RetroPad inputs to X68000 keyboard keys."
-msgstr ""
+msgstr "Mapovat vstupy ovladače RetroPad hráče 1 na klávesy klávesnice X68000."
 
 msgctxt "#30184"
 msgid "P1 Joy2Key UP"
-msgstr ""
+msgstr "P1 Joy2Key UP"
 
 msgctxt "#30185"
 msgid "Select a keyboard Key to assign to this logical Joy2Key action, it can then be mapped in Controls (exit and reopen the menu to refresh J2K key labels there)."

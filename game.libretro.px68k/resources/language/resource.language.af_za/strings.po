@@ -17,7 +17,6 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 2026.11.2\n"
 
-#, fuzzy
 msgctxt "Addon Summary"
 msgid "Sharp - X68000 (PX68k)"
 msgstr "Sharp - X68000 (PX68k)"
@@ -26,6 +25,7 @@ msgctxt "Addon Description"
 msgid "PX68k is a portable SHARP X68000 Emulator for PSP, Android and other platforms."
 msgstr "PX68k is 'n draagbare SHARP X68000 Emuleerder vir PSP, Android en ander platvorms."
 
+#, fuzzy
 msgctxt "#30001"
 msgid "Menu Font Size"
 msgstr ""

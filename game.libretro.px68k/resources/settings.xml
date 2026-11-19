@@ -144,7 +144,7 @@
 				</setting>
 				<setting id="px68k_joy2mouse_analog_deadzone" type="string" label="30084" help="30085">
 					<level>0</level>
-					<default>12.5</default>
+					<default>0</default>
 					<constraints>
 						<options>
 							<option>0</option>
